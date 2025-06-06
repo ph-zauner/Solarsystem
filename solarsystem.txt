@@ -10,3 +10,5 @@ Jupiter
 - Europaa
 Saturn
 Uranus
+Pluto
+Eris
